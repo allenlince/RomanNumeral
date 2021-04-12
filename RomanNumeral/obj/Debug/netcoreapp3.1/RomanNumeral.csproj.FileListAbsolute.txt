@@ -1,0 +1,12 @@
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.exe
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.deps.json
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.runtimeconfig.json
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.runtimeconfig.dev.json
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.dll
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.pdb
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.AssemblyInfoInputs.cache
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.AssemblyInfo.cs
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.csproj.CoreCompileInputs.cache
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.dll
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.pdb
+C:\Users\lince\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.genruntimeconfig.cache
